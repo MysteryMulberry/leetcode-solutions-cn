@@ -37,14 +37,8 @@ class Solution:
 
 ## 测试用例
 ```python
-# 示例测试
 solution = Solution()
-# 请根据具体题目添加测试用例
 ```
 
-## 相关题目
-- LeetCode 43: 相关拓展题目
-- LeetCode 44: 变体题目
-
 ---
-*题解编号: #11 | 题号: 42 | 难度: 困难 | 更新时间: 2026-05-22T04:27:42Z | 作者: MysteryMulberry*
+*题解编号: #11 | 题号: 42 | 难度: 困难 | 更新时间: 2026-05-22T04:43:24Z | 作者: MysteryMulberry*
