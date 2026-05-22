@@ -28,14 +28,8 @@ class Solution:
 
 ## 测试用例
 ```python
-# 示例测试
 solution = Solution()
-# 请根据具体题目添加测试用例
 ```
 
-## 相关题目
-- LeetCode 122: 相关拓展题目
-- LeetCode 123: 变体题目
-
 ---
-*题解编号: #15 | 题号: 121 | 难度: 简单 | 更新时间: 2026-05-22T04:27:51Z | 作者: MysteryMulberry*
+*题解编号: #15 | 题号: 121 | 难度: 简单 | 更新时间: 2026-05-22T04:43:38Z | 作者: MysteryMulberry*
